@@ -1,0 +1,6 @@
+print("hello")
+
+if 1=2;
+ printf ("yes");
+else 
+printf("no");
